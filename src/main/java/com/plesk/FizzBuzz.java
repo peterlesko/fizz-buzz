@@ -19,7 +19,7 @@ class FizzBuzz {
     }
 }
 
-//test
+//test1
 
 /*
     Write a program that prints the numbers from 1 to 100.
